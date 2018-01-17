@@ -1,6 +1,6 @@
-my_string = '...you can say that again...'
-puts my_string
-puts my_string
-
-name = 'Emmanuel Zambrano'
-puts 'My name is ' + name + '.'
+puts 'Hello World!'
+puts ' '
+puts 'Goodbye.'
+puts 'I like ' + 'apple pie.'
+puts 'blink ' * 4
+puts 'You\'re swell!'
